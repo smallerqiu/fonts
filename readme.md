@@ -13,5 +13,8 @@ LxgwWenKai [https://github.com/lxgw/LxgwWenKai]
 
 
 ## 阿里巴巴普惠体
-https://alibabafont.taobao.com
+AlibabaPuHuiTi https://alibabafont.taobao.com
 
+
+## 抖音美好体
+DouyinSans https://github.com/bytedance/fonts
